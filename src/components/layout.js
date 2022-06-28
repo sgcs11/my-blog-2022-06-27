@@ -53,7 +53,7 @@ function Layout({ pageTitle, children }) {
         {children}
       </main>
 
-      <div>Copyright All Rights</div>
+      <div>Changhwa's blog</div>
     </div>
   );
 }
